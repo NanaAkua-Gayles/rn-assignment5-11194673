@@ -51,7 +51,7 @@ export default function Homescreen() {
    <View >
       <Image 
     source={require("./image/cloud.jpeg")}
-    style={[styles.icon,{marginLeft:10}]}
+    style={[styles.icon,{marginLeft:10}]} 
     />
     <Text style={styles.text}>Topup</Text>
    </View>
